@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Passing_model_data/1.0.0": {
+        "runtime": {
+          "Passing_model_data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passing_model_data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

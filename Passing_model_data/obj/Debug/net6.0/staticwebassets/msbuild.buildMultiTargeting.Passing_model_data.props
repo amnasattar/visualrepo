@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Passing_model_data.props" />
+</Project>

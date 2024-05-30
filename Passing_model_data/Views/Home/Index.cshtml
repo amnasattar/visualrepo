@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var empss = ViewData["empData"] as Employee;
+    var employee = ViewData["empListData"] as List<Employee>;
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<h6>@empss.Id</h6>
+<h6>@empss.Name</h6>
+<h6>@empss.Email</h6>
+<h6>@empss.Designation</h6>
+<h6>@empss.Salary</h6>
+
+@{
+foreach (var item in employee)
+    {
+        @item.Id
+        @item.Name
+        @item.Email
+        @item.Designation
+        @item.Salary
+        <br/>
+    }}
