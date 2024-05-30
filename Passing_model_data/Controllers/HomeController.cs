@@ -18,14 +18,14 @@ namespace Passing_model_data.Controllers
             Employee emp = new Employee()
             {
                 Id = 1,
-                Name = "Ali",
+                Name = "Ali khan",
                 Email = "ali@email.com",
                 Designation = "Managers",
                 Salary = 150000
             };
             var empl = new List<Employee> {
 
-              new  Employee { Id = 1 , Name = "Ali" , Email = "ali@email.com" , Designation = "Manager" , Salary = 50000},
+              new  Employee { Id = 1 , Name = "Saad" , Email = "ali@email.com" , Designation = "Manager" , Salary = 50000},
               new  Employee { Id = 2 , Name = "Yasir" , Email = "yasir@email.com" , Designation = "Asst Manager" , Salary = 40000},
               new  Employee { Id = 3 , Name = "Asif" , Email = "asif@email.com" , Designation = "HR" , Salary = 45000}
 

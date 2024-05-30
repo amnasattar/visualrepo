@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Amna\\Desktop\\Passing_model_data\\Passing_model_data\\Passing_model_data.csproj": {}
+    "C:\\Users\\amna\\Source\\Repos\\amnasattar\\visualrepo\\Passing_model_data\\Passing_model_data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Amna\\Desktop\\Passing_model_data\\Passing_model_data\\Passing_model_data.csproj": {
+    "C:\\Users\\amna\\Source\\Repos\\amnasattar\\visualrepo\\Passing_model_data\\Passing_model_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Amna\\Desktop\\Passing_model_data\\Passing_model_data\\Passing_model_data.csproj",
+        "projectUniqueName": "C:\\Users\\amna\\Source\\Repos\\amnasattar\\visualrepo\\Passing_model_data\\Passing_model_data.csproj",
         "projectName": "Passing_model_data",
-        "projectPath": "C:\\Users\\Amna\\Desktop\\Passing_model_data\\Passing_model_data\\Passing_model_data.csproj",
-        "packagesPath": "C:\\Users\\Amna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Amna\\Desktop\\Passing_model_data\\Passing_model_data\\obj\\",
+        "projectPath": "C:\\Users\\amna\\Source\\Repos\\amnasattar\\visualrepo\\Passing_model_data\\Passing_model_data.csproj",
+        "packagesPath": "C:\\Users\\amna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\amna\\Source\\Repos\\amnasattar\\visualrepo\\Passing_model_data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Amna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\amna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -61,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
